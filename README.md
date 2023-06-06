@@ -1,1 +1,1 @@
-# odin-recipes
+# baking-recipes

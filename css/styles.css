@@ -1,0 +1,45 @@
+* {
+    background-color: #FFFEF2;
+}
+
+.title {
+    color: #644535;
+    font-size: 44px;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+.custard-gif {
+    background-color: rgb(217, 234, 211);
+}
+
+.custard-title {
+    text-align: center;
+    font-size: 44px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.custardimg {
+    height: auto;
+    width: 300px;
+}
+
+.pancake-title {
+    text-align: center;
+    font-size: 44px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.pancakeimg {
+    height: auto;
+    width: 300px;
+}
+
+li {
+    font-size: 24px;
+}
+
+p {
+    font-size: 24px;
+}
+
